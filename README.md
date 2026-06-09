@@ -2,6 +2,10 @@
 
 A PostgreSQL database project designed to store tarot readings, cards, users, and card positions within each reading.
 
+## Entity Relationship Diagram
+
+![ERD](ERD.png)
+
 ## Technologies Used
 
 - PostgreSQL
